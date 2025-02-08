@@ -1,5 +1,7 @@
 REMIX DEFAULT WORKSPACE
 
+SMART CONTRACT ADDRESS - 0x20c1D2477caF12AdfbD5eB970F790328e9Cd0064
+
 Remix default workspace is present when:
 i. Remix loads for the very first time 
 ii. A new workspace is created with 'Default' template
